@@ -52,7 +52,7 @@ export default function Layout() {
             <li>{hotel.phone}</li>
           </ul>
         </div>
-        <p className="border-t border-white/10 py-5 text-center text-xs text-white/60">© {new Date().getFullYear()} {hotel.full}</p>
+        <p className="border-t border-white/10 py-5 text-center text-xs text-white/60">© 2023</p>
       </footer>
     </>
   )
